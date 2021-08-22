@@ -1,0 +1,54 @@
+{
+    "Rice":[ 
+        {
+        "name": "Brown rice",
+        "weight": 5.8,
+        "price": 120.7
+        },
+        {
+        "name": "Sona Masoori",
+        "weight": 5.7,
+        "price": 190.8
+        },
+         {"name": "Basumati",
+        "weight": 4.9,
+        "price": 150.0
+        }
+    ],	
+	"Wheat":[
+		    {
+		        "name": "Atta",
+		        "weight": 6.0,
+		        "price": 50.0
+		        },
+		        {
+		        "name": "Ashirvada",
+		        "weight": 6.0,
+		        "price": 45.0
+		        },
+		        {
+		        "name": "Annapurna",
+		        "weight": 6.0,
+		        "price": 60.0
+		        }
+		        ],
+	 "Pulses": [
+		    {
+		        "name": "moong daal",
+		        "weight": 3.0,
+		        "price": 150.0
+		        },
+		        {
+		        "name": "Masoor",
+		        "weight": 3.0,
+		        "price": 120.0
+		        },
+		        {
+		        "name": "Urad dall",
+		        "weight": 3.0,
+		        "price": 180.0
+		        }
+		        ]
+}		        
+		       
+		    
